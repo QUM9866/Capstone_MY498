@@ -1,4 +1,3 @@
-# Capstone_MY498
 # Capstone MY498
 
 This repository contains all data and code for analyzing candidate 43045's research work on celebrity social media behavior and government engagement patterns.
