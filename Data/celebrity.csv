@@ -1,0 +1,209 @@
+user_id,profession,education,ethnicity,origin,birthday,gender,followers,activity,repost,age,log_followers,sovereignty_repost,nationalism_repost,party_line_repost,culture_repost,gov_announcement_repost,moral_society_repost,non_political_repost
+0,Actor/Actress,High School,False,True,1974-05-19,False,6216000,475,25,51,15.64263717,2,9,1,2,4,5,2
+1,Idol,High School,False,False,2000-11-22,False,6130000,737,50,25,15.62870531,6,33,0,2,6,3,0
+2,Actor/Actress,High School,False,False,1999-03-25,False,14731000,14,1,26,16.50546467,1,0,0,0,0,0,0
+3,Singer,High School,False,True,1982-04-13,True,692000,65,2,43,13.44734123,1,0,0,1,0,0,0
+4,Actor/Actress,Bachelor,False,False,1981-05-29,True,20547000,616,16,44,16.8382255,1,6,0,3,3,1,2
+5,Actor/Actress,Bachelor,False,False,1977-10-16,True,3670000,115,6,48,15.11570222,0,0,0,2,2,2,0
+6,Singer,High School,True,True,1982-11-22,True,21103000,633,47,43,16.86492577,4,32,0,2,7,2,0
+7,Idol,High School,True,False,1984-02-09,False,52758000,362,63,41,17.78122598,6,46,2,0,5,4,0
+8,Actor/Actress,Bachelor,False,True,1991-12-11,True,462000,35,0,34,13.04332017,0,0,0,0,0,0,0
+9,Actor/Actress,Bachelor,False,False,1984-03-01,True,24661000,576,34,41,17.02073361,3,26,1,1,3,0,0
+10,Other,Bachelor,False,False,1987-02-17,True,30929000,247,39,38,17.24720481,2,29,1,1,4,0,2
+11,Idol,High School,False,True,2000-10-03,False,20450000,828,47,25,16.83349344,4,29,0,1,7,3,3
+12,Singer,Bachelor,False,False,1985-07-26,True,31452000,22,1,40,17.26397313,1,0,0,0,0,0,0
+13,Other,Bachelor,False,False,1962-06-16,False,3063000,44,1,63,14.93490539,0,1,0,0,0,0,0
+14,Singer,Bachelor,False,False,1990-02-07,False,37329000,622,38,35,17.43528106,5,27,1,2,2,0,1
+15,Singer,High School,False,True,1983-06-20,True,17299000,252,32,42,16.66615925,7,18,0,0,6,0,1
+16,Singer,High School,True,False,1972-01-01,False,3669000,169,11,53,15.1154297,2,6,0,2,1,0,0
+17,Idol,High School,False,False,1993-05-02,False,66457000,456,17,32,18.01206568,2,10,1,1,2,1,0
+18,Idol,Bachelor,True,False,1998-07-31,True,9641000,1245,49,27,16.0815354,7,25,1,3,5,4,4
+19,Actor/Actress,High School,False,True,1981-09-09,True,3263000,394,12,44,14.99815758,1,8,0,0,3,0,0
+20,Actor/Actress,Bachelor,False,False,1986-09-12,True,112999999,576,62,39,18.54289837,5,40,4,1,6,5,1
+21,Singer,Bachelor,False,False,1988-04-30,True,9086000,230,14,37,16.02224533,0,4,1,1,6,0,2
+22,Actor/Actress,High School,False,False,2000-09-04,True,2768000,635,38,25,14.8336356,3,27,0,2,3,3,0
+23,Actor/Actress,Bachelor,False,False,1984-06-26,False,55540000,31,1,41,17.83261404,0,0,0,0,0,1,0
+24,Idol,High School,False,False,1994-06-18,True,31239000,577,67,31,17.25717787,7,46,1,2,7,4,0
+25,Actor/Actress,Bachelor,False,False,1978-11-01,False,10087000,4,0,47,16.12675802,0,0,0,0,0,0,0
+26,Singer,Bachelor,False,False,1982-12-20,False,81749000,120,0,43,18.21916414,0,0,0,0,0,0,0
+27,Singer,Bachelor,False,True,1982-10-29,True,17555000,48,0,43,16.68084937,0,0,0,0,0,0,0
+28,Singer,High School,False,False,1984-12-12,True,16931000,584,36,41,16.64465682,5,23,1,0,4,2,1
+29,Idol,Bachelor,False,False,2000-11-28,False,90076000,474,80,25,18.31616432,6,51,0,3,7,7,6
+30,Other,Bachelor,True,False,1984-10-09,True,3642000,289,20,41,15.10804354,4,11,0,0,1,3,1
+31,Singer,High School,False,True,1982-09-05,True,7557000,60,0,43,15.83798484,0,0,0,0,0,0,0
+32,Actor/Actress,Bachelor,False,True,1974-02-13,False,433000,363,1,51,12.97849301,0,1,0,0,0,0,0
+33,Other,Bachelor,True,False,1982-06-14,False,16905000,494,38,43,16.64311999,2,22,2,4,5,0,3
+34,Actor/Actress,High School,False,True,1971-04-16,False,2123,1282,0,54,7.660585462,0,0,0,0,0,0,0
+35,Singer,High School,False,True,1981-03-27,False,54634000,794,6,44,17.81616696,0,1,0,0,3,0,2
+36,Actor/Actress,Bachelor,False,False,1973-03-04,False,11450000,85,17,52,16.25350029,2,7,0,1,3,2,2
+37,Actor/Actress,Bachelor,False,False,1970-04-08,False,443000,156,30,55,13.00132505,4,20,0,0,5,1,0
+38,Idol,Bachelor,False,False,1991-10-07,True,6988000,841,41,34,15.75970495,5,24,1,0,9,0,2
+39,Singer,High School,True,True,1972-08-09,True,11007000,22,0,53,16.21404199,0,0,0,0,0,0,0
+40,Singer,Bachelor,True,False,1989-10-23,False,7285000,876,64,36,15.801328,4,41,2,5,3,7,2
+41,Actor/Actress,Bachelor,False,False,1990-09-27,True,27096000,3,0,35,17.11489667,0,0,0,0,0,0,0
+42,Singer,High School,False,True,1974-02-03,True,15893000,709,21,51,16.58138932,4,10,0,1,1,0,5
+43,Actor/Actress,High School,False,True,1969-08-15,False,4744000,95,0,56,15.37239122,0,0,0,0,0,0,0
+44,Actor/Actress,High School,False,False,2005-04-18,True,2075000,561,60,20,14.54547171,6,42,1,3,6,2,0
+45,Idol,Bachelor,False,False,1999-09-21,False,83597000,472,75,26,18.24151819,6,52,0,2,7,6,2
+46,Actor/Actress,Bachelor,False,False,1986-04-17,False,45422000,726,36,39,17.63150713,3,24,2,1,3,1,2
+47,Idol,High School,False,False,1996-10-23,True,5968000,827,35,29,15.60192242,5,21,0,1,3,5,0
+48,Actor/Actress,Bachelor,False,False,1997-10-10,False,31386000,402,42,28,17.26187249,5,24,1,1,6,4,1
+49,Singer,High School,False,False,1969-06-01,False,675000,42,2,56,13.42246797,0,1,0,0,0,0,1
+50,Actor/Actress,High School,False,True,1973-09-17,True,14087000,681,14,52,16.46076294,2,2,1,1,2,3,3
+51,Actor/Actress,Bachelor,True,False,1999-09-02,True,8328000,450,36,26,15.93513389,3,26,0,0,5,2,0
+52,Actor/Actress,Bachelor,False,True,1982-03-24,False,32255000,174,10,43,17.28918363,0,3,0,0,6,1,0
+53,Actor/Actress,Bachelor,True,False,1974-04-03,False,14363000,340,25,51,16.48016601,0,19,1,2,0,2,1
+54,Singer,High School,False,True,1975-01-17,True,10638000,227,11,50,16.17994305,3,7,0,1,0,0,0
+55,Actor/Actress,Bachelor,False,False,1962-09-29,True,2291000,479,20,63,14.64449896,1,3,1,0,2,6,7
+56,Idol,Bachelor,False,False,2000-02-10,True,4159000,1000,50,25,15.24078522,6,33,1,2,5,3,0
+57,Actor/Actress,Bachelor,True,False,1988-03-14,True,16285000,611,46,37,16.605755,6,31,1,0,3,5,0
+58,Actor/Actress,Bachelor,False,False,2000-01-04,False,12233000,873,71,25,16.31964778,9,41,1,4,9,5,2
+59,Idol,High School,False,False,2000-06-16,False,28994000,846,68,25,17.18259947,4,46,1,3,7,7,0
+60,Idol,High School,False,False,1995-06-29,True,12176000,938,35,30,16.31497736,2,22,1,0,5,5,0
+61,Actor/Actress,High School,False,False,1989-04-11,False,25743000,516,53,36,17.0636733,5,35,0,2,5,4,2
+62,Other,Bachelor,False,False,1950-04-02,False,144000,87,5,75,11.87756858,1,1,0,2,0,0,1
+63,Other,High School,False,True,1978-06-14,True,43533000,155,2,47,17.58902983,0,0,0,0,2,0,0
+64,Singer,High School,True,False,1985-07-11,False,23161000,599,12,40,16.95798039,2,6,0,0,2,2,0
+65,Actor/Actress,Bachelor,False,False,1991-09-02,False,15162000,5,0,34,16.53430286,0,0,0,0,0,0,0
+66,Other,High School,True,False,1991-11-19,False,145000,498,3,34,11.88448902,0,1,0,0,0,0,2
+67,Actor/Actress,High School,False,True,1980-11-21,True,1181000,593,3,45,13.9818721,0,2,0,0,1,0,0
+68,Actor/Actress,Bachelor,False,False,1978-10-07,False,25072000,240,11,47,17.03726224,2,5,0,1,3,0,0
+69,Other,High School,False,False,1973-01-18,False,72648000,376,14,52,18.10113642,0,1,0,2,2,1,8
+70,Actor/Actress,Bachelor,True,False,1993-10-15,False,36426000,526,66,32,17.41079336,5,40,3,1,8,7,2
+71,Actor/Actress,Bachelor,False,False,1978-03-23,False,51654000,82,9,47,17.76007819,1,3,1,2,0,1,1
+72,Actor/Actress,Bachelor,False,False,1985-08-11,True,9370000,8,1,40,16.05302365,1,0,0,0,0,0,0
+73,Actor/Actress,Bachelor,False,False,1974-05-09,False,9931000,1079,46,51,16.11117174,2,32,0,1,7,3,1
+74,Actor/Actress,High School,False,True,1962-06-27,False,2395000,48,0,63,14.68889379,0,0,0,0,0,0,0
+75,Other,Bachelor,False,True,1972-07-17,True,5315000,5005,40,53,15.48604357,3,23,0,2,4,0,8
+76,Actor/Actress,Bachelor,False,True,1982-09-04,True,15693000,760,24,43,16.56872531,2,10,0,1,8,2,1
+77,Actor/Actress,Bachelor,False,False,1987-08-25,True,73825000,317,11,38,18.11720799,3,7,0,0,1,0,0
+78,Singer,High School,False,True,1979-08-24,True,13710000,157,1,46,16.43363605,0,0,0,0,0,1,0
+79,Other,Bachelor,False,False,1989-03-08,True,12201000,227,30,36,16.31702847,3,22,0,0,3,2,0
+80,Other,Bachelor,False,False,1952-08-12,False,1950000,2,0,73,14.48333993,0,0,0,0,0,0,0
+81,Actor/Actress,High School,False,True,1965-12-08,True,19618000,726,0,60,16.79195807,0,0,0,0,0,0,0
+82,Other,High School,False,False,1985-04-15,False,28459000,555,18,40,17.16397501,1,7,0,1,5,4,0
+83,Idol,Bachelor,False,False,1994-06-19,True,12467000,895,56,31,16.33859571,5,40,3,0,7,1,0
+84,Actor/Actress,Bachelor,False,False,1984-10-06,False,38431000,172,4,41,17.46437498,1,1,0,0,0,1,1
+85,Actor/Actress,Bachelor,False,True,1975-09-13,False,11500000,204,12,50,16.25785759,2,10,0,0,0,0,0
+86,Actor/Actress,High School,False,True,1987-01-13,True,1595000,334,4,38,14.28238429,1,2,0,0,1,0,0
+87,Singer,Bachelor,False,False,2001-12-23,True,10796000,519,53,24,16.19468625,5,41,1,0,4,1,1
+88,Singer,Bachelor,False,True,1980-08-06,False,27943000,428,8,45,17.14567728,1,1,0,0,5,1,0
+89,Actor/Actress,Bachelor,False,False,1998-05-20,True,6215000,1031,60,27,15.64247628,5,44,1,1,8,1,0
+90,Actor/Actress,Bachelor,False,False,1999-12-26,False,48242000,496,56,26,17.69174057,6,35,3,1,4,3,4
+91,Singer,High School,False,True,1981-08-24,False,17899000,761,29,44,16.7002554,2,18,0,0,6,2,1
+92,Actor/Actress,Bachelor,False,False,1983-08-29,False,14627000,326,8,42,16.49837969,1,3,0,0,0,1,3
+93,Actor/Actress,Bachelor,False,False,1997-02-27,True,14618000,445,30,28,16.4977642,1,21,2,0,4,2,0
+94,Other,High School,False,False,1955-03-22,False,3857000,16,0,70,15.16540024,0,0,0,0,0,0,0
+95,Actor/Actress,Bachelor,False,False,1970-06-12,False,5299000,583,52,55,15.48302868,0,0,0,0,0,0,0
+96,Actor/Actress,Bachelor,False,False,1987-02-22,True,30046000,336,9,38,17.2182401,6,34,1,1,3,6,1
+97,Singer,High School,False,True,1979-07-30,False,60958000,653,30,46,17.92569566,1,3,0,0,4,1,0
+98,Idol,High School,False,False,2007-01-12,False,7206000,698,53,18,15.79042457,2,24,0,0,2,2,0
+99,Idol,Bachelor,False,False,2000-12-28,True,9192000,426,21,25,16.0338441,5,35,1,0,7,4,1
+100,Singer,High School,False,True,1991-08-16,True,35469000,670,33,34,17.38416963,0,17,0,1,3,0,0
+101,Idol,High School,False,True,1996-09-28,True,22043000,741,78,29,16.90850565,3,20,2,0,6,1,1
+102,Actor/Actress,Bachelor,False,False,1993-10-18,True,10059000,600,55,32,16.12397831,6,52,3,2,9,4,2
+103,Other,High School,False,False,1993-11-15,False,12752000,276,46,32,16.36119868,3,39,1,0,6,6,0
+104,Singer,High School,False,True,1967-07-08,False,12859000,883,53,58,16.36955451,9,28,0,0,4,4,1
+105,Idol,High School,False,False,1998-07-07,True,13406000,725,67,27,16.41121293,5,38,2,0,4,2,2
+106,Actor/Actress,High School,False,False,1988-10-28,True,17451000,684,49,37,16.67490751,6,39,3,2,8,9,0
+107,Idol,Bachelor,False,False,1996-10-29,False,18569000,606,44,29,16.73700408,6,29,0,3,7,2,2
+108,Actor/Actress,High School,False,True,1963-07-27,False,12766000,14,0,62,16.36229594,6,24,1,2,7,1,3
+109,Actor/Actress,Bachelor,False,False,1984-01-30,True,42999000,594,30,41,17.57668742,0,0,0,0,0,0,0
+110,Idol,High School,False,False,2000-06-22,False,18105000,402,32,25,16.7116987,4,20,1,0,3,2,0
+111,Singer,Bachelor,False,False,1984-03-10,True,16266000,271,34,41,16.6045876,1,10,0,3,1,7,10
+112,Actor/Actress,High School,False,False,1979-10-05,True,48938000,891,60,46,17.70606475,4,23,1,0,5,1,0
+113,Idol,Bachelor,False,False,1996-03-09,True,10063000,477,28,29,16.12437589,5,40,3,0,8,3,1
+114,Actor/Actress,High School,False,True,1966-08-16,True,7532000,1362,94,59,15.83467117,3,19,0,1,4,1,0
+115,Actor/Actress,Bachelor,True,False,1997-09-17,True,35705000,1139,0,28,17.39080129,9,58,0,4,7,12,4
+116,Actor/Actress,High School,False,True,1970-10-21,False,15242000,205,14,55,16.53956533,0,0,0,0,0,0,0
+117,Actor/Actress,Bachelor,True,True,1968-03-18,False,3665000,538,73,57,15.11433889,1,8,0,2,0,2,1
+118,Actor/Actress,Bachelor,False,False,1988-07-21,True,26524000,565,29,37,17.09356054,6,46,1,3,9,6,2
+119,Actor/Actress,Bachelor,False,True,1979-11-06,True,10938000,32,1,46,16.20775352,3,22,0,0,2,1,1
+120,Actor/Actress,High School,True,True,1962-09-24,True,1697000,85,6,63,14.34437254,0,0,0,0,0,1,0
+121,Actor/Actress,Bachelor,False,True,1974-11-29,True,18237000,127,2,51,16.71896306,0,3,1,0,1,0,1
+122,Idol,High School,False,True,2000-01-06,True,2416000,778,60,25,14.69762384,0,0,0,0,2,0,0
+123,Actor/Actress,Bachelor,False,False,1997-10-14,True,10139000,439,21,28,16.13189993,3,46,1,2,5,3,0
+124,Actor/Actress,High School,False,False,1989-04-19,False,23917000,216,23,36,16.99010006,1,12,0,1,3,4,0
+125,Other,High School,False,False,1981-05-18,False,6508000,577,10,44,15.68854275,2,18,0,0,1,1,1
+126,Other,High School,False,False,1988-01-27,True,25482000,555,39,37,17.05348288,0,8,0,0,1,1,0
+127,Actor/Actress,High School,False,True,1981-09-06,True,3442000,709,46,44,15.05156326,4,25,0,0,8,1,1
+128,Idol,High School,False,False,1997-08-03,False,18339000,976,92,28,16.7245405,6,32,0,2,4,1,1
+129,Actor/Actress,Bachelor,False,True,2000-04-09,False,12012000,315,27,25,16.30141671,8,69,0,0,11,4,0
+130,Actor/Actress,Bachelor,False,False,1980-02-02,True,8130000,641,57,45,15.91107148,2,16,1,0,7,1,0
+131,Actor/Actress,Bachelor,False,False,1991-10-19,False,24874000,569,62,34,17.02933364,5,38,1,1,6,5,1
+132,Actor/Actress,Bachelor,True,False,1992-06-03,True,81336000,311,12,33,18.21409928,5,38,1,4,6,7,1
+133,Actor/Actress,High School,False,True,1953-11-15,True,11602000,848,42,72,16.26668806,1,7,0,0,2,1,1
+134,Idol,Bachelor,False,False,1996-12-25,True,4467000,986,44,29,15.3122276,5,30,0,0,4,3,0
+135,Actor/Actress,Bachelor,False,False,1977-03-09,True,11385000,557,32,48,16.24780726,3,24,0,1,8,6,2
+136,Idol,High School,False,False,2006-05-22,False,6144000,1052,40,19,15.63098655,2,25,0,0,3,2,0
+137,Other,Bachelor,False,False,1993-11-02,False,10646000,600,56,32,16.18069479,5,25,0,4,3,2,1
+138,Idol,Bachelor,False,False,2001-05-04,False,12818000,1302,76,24,16.36636099,6,37,1,1,6,5,0
+139,Actor/Actress,High School,False,False,1974-10-18,True,6675000,253,8,51,15.71387976,6,39,4,2,18,7,0
+140,Other,Bachelor,True,False,1983-04-17,False,4221000,453,31,42,15.25558262,0,0,0,0,0,0,8
+141,Singer,High School,False,True,1967-12-06,False,5269000,7,0,58,15.47735115,4,18,0,1,3,2,3
+142,Actor/Actress,High School,False,True,1963-04-26,False,7409000,969,72,62,15.81820604,0,0,0,0,0,0,0
+143,Actor/Actress,High School,True,False,1990-04-26,True,10158000,81,4,35,16.13377213,5,42,1,9,5,6,4
+144,Actor/Actress,High School,False,True,1954-04-07,False,31067000,755,30,71,17.25165672,0,2,0,0,2,0,0
+145,Idol,High School,False,False,2005-11-19,False,8961000,449,42,20,16.00839239,2,23,0,0,3,2,0
+146,Actor/Actress,Bachelor,True,False,1979-02-03,False,26872000,1073,50,46,17.10659541,2,27,1,1,5,3,3
+147,Idol,High School,False,False,2001-04-24,False,10095000,366,73,24,16.12755081,6,35,1,0,3,5,0
+148,Actor/Actress,Bachelor,False,False,1991-09-09,False,55897000,421,67,34,17.83902127,5,48,1,4,7,8,0
+149,Actor/Actress,Bachelor,False,False,2001-08-27,True,14984000,6,0,24,16.52249352,6,45,2,1,8,5,0
+150,Actor/Actress,Bachelor,False,False,1980-06-07,False,5040000,31,0,45,15.43291664,0,0,0,0,0,0,0
+151,Other,High School,False,False,1955-06-15,False,7507000,772,57,70,15.83134648,0,0,0,0,0,0,0
+152,Actor/Actress,Bachelor,False,False,1997-12-30,False,13682000,559,35,28,16.43159166,4,43,1,2,4,2,1
+153,Actor/Actress,Bachelor,False,False,1974-02-23,False,15000,821,40,51,9.61580548,2,22,5,0,2,4,0
+154,Actor/Actress,High School,False,False,1987-03-28,True,24829000,30,0,38,17.02752288,5,30,0,1,2,2,0
+155,Singer,Bachelor,False,True,1987-07-01,False,11355000,166,15,38,16.24516873,0,0,0,0,0,0,0
+156,Actor/Actress,Bachelor,False,True,1982-11-08,False,14041000,563,51,43,16.45749218,1,7,0,0,6,1,0
+157,Idol,High School,False,False,1999-05-28,False,12773000,145,28,26,16.36284413,6,31,1,2,6,4,1
+158,Other,Bachelor,False,False,1987-10-27,False,15801000,162,1,38,16.57558379,0,14,0,2,10,1,1
+159,Singer,High School,False,True,1965-10-26,False,13315000,330,1,60,16.40440178,0,1,0,0,0,0,0
+160,Singer,High School,False,True,1974-07-27,False,22469000,373,49,51,16.92764714,0,0,0,0,0,1,0
+161,Actor/Actress,Bachelor,False,False,1976-06-29,True,44617000,779,0,49,17.61362551,4,27,3,0,9,4,2
+162,Other,Bachelor,False,False,1971-10-12,False,33752000,208,22,54,17.33455023,0,0,0,0,0,0,0
+163,Actor/Actress,Bachelor,False,False,1988-12-15,False,14774000,55,3,37,16.50837944,4,14,0,0,2,2,0
+164,Actor/Actress,High School,False,False,1946-03-19,False,346000,524,4,79,12.75419405,2,1,0,0,0,0,0
+165,Actor/Actress,High School,False,True,1980-12-13,False,13869000,295,22,45,16.44516669,1,3,0,0,0,0,0
+166,Actor/Actress,Bachelor,False,False,1977-11-13,True,5044000,960,51,48,15.43370998,1,18,0,1,1,1,0
+167,Other,High School,False,False,1999-01-01,False,10266000,192,8,26,16.14434802,5,35,1,1,6,3,0
+168,Actor/Actress,Bachelor,False,False,1976-12-22,False,15255000,707,3,49,16.54041788,1,4,0,1,2,0,0
+169,Singer,High School,True,True,1987-03-30,False,18398000,18,0,38,16.72775252,0,0,1,0,0,1,1
+170,Actor/Actress,High School,True,True,1979-04-04,True,69867000,798,67,46,18.06210399,0,0,0,0,0,0,0
+171,Idol,High School,False,False,1996-07-13,False,17577000,410,55,29,16.68210179,6,42,0,3,7,9,0
+172,Actor/Actress,Bachelor,False,False,1992-01-31,True,29774000,611,54,33,17.20914609,5,35,0,2,7,5,1
+173,Actor/Actress,High School,False,True,1985-11-21,False,40302000,195,63,40,17.51191165,9,36,0,1,6,2,0
+174,Actor/Actress,Bachelor,False,False,1967-12-17,False,11363000,85,19,58,16.24587302,5,46,0,2,4,5,1
+175,Other,High School,False,False,1991-12-01,False,31480000,365,57,34,17.26486298,2,11,1,1,2,0,2
+176,Actor/Actress,High School,False,False,1990-04-20,False,63105000,385,11,35,17.96031056,5,44,0,1,3,4,0
+177,Other,Bachelor,False,True,1977-12-20,True,8339000,26,1,48,15.93645386,1,7,0,0,2,1,0
+178,Actor/Actress,Bachelor,True,False,1983-01-11,True,12625000,2351,12,42,16.35118953,1,0,0,0,0,0,0
+179,Singer,Bachelor,False,False,1975-08-01,True,2009000,111,3,50,14.51314764,0,2,0,5,2,2,1
+180,Other,High School,False,False,1983-10-14,False,4710000,609,2,42,15.36519847,0,0,0,0,0,1,2
+181,Actor/Actress,Bachelor,False,True,1991-02-06,True,607000,507,21,34,13.31628407,1,1,0,0,0,0,0
+182,Idol,High School,False,False,2007-04-30,False,5565000,696,62,18,15.53200754,2,16,0,0,2,1,0
+183,Singer,High School,False,True,1981-01-21,True,24293000,8,0,44,17.0056988,5,44,1,1,8,3,0
+184,Singer,Bachelor,False,True,1976-03-18,True,46071000,467,54,49,17.64569424,0,0,0,0,0,0,0
+185,Idol,Bachelor,False,False,2001-09-23,False,10307000,35,2,24,16.14833383,6,36,1,0,8,3,0
+186,Actor/Actress,Bachelor,False,True,1964-12-19,False,1448000,17,0,61,14.18569385,0,2,0,0,0,0,0
+187,Actor/Actress,Bachelor,False,True,1986-02-19,True,30344000,634,51,39,17.22810936,0,0,0,0,0,0,0
+188,Actor/Actress,Bachelor,False,False,1994-10-20,False,15875000,649,9,31,16.5802561,4,35,2,3,4,2,1
+189,Idol,High School,False,True,2000-01-20,True,6525000,22,1,25,15.69115151,1,2,2,0,2,2,0
+190,Singer,High School,False,False,1968-03-23,True,2909000,525,33,57,14.88331994,1,0,0,0,0,0,0
+191,Singer,Bachelor,False,False,1989-11-07,True,6675000,547,11,36,15.71387976,4,22,0,0,6,0,1
+192,Other,Bachelor,True,True,1994-08-22,True,2625000,1285,69,31,14.78059145,0,4,0,0,4,2,1
+193,Singer,High School,False,True,1971-05-19,False,5439000,814,59,54,15.50910578,7,42,3,3,7,5,2
+194,Actor/Actress,Bachelor,False,False,1986-09-01,True,21693000,225,0,39,16.89250019,6,38,4,2,5,4,0
+195,Actor/Actress,High School,False,True,1971-10-25,True,7055000,267,6,54,15.76924714,0,0,0,0,0,0,0
+196,Actor/Actress,Bachelor,False,False,1988-02-13,False,53589000,5,0,37,17.79685438,0,4,0,1,1,0,0
+197,Other,High School,False,False,1957-10-02,False,14654000,713,33,68,16.50022389,0,0,0,0,0,0,0
+198,Idol,High School,False,False,1999-09-23,True,10775000,394,15,26,16.19273919,2,18,2,3,6,2,0
+199,Actor/Actress,High School,True,True,1968-03-04,True,20567000,1208,50,57,16.83919841,3,8,0,0,3,1,0
+200,Actor/Actress,Bachelor,False,True,2000-06-15,True,20227000,129,40,25,16.8225289,8,34,0,0,7,0,1
+201,Other,High School,False,False,1988-02-16,False,11960000,1144,48,37,16.29707831,3,27,0,0,4,6,0
+202,Idol,High School,False,False,1998-03-23,False,10130000,387,13,27,16.13101188,4,28,2,2,7,5,0
+203,Singer,High School,False,True,1973-09-11,False,27862000,209,5,52,17.14277431,2,2,0,1,6,2,0
+204,Singer,Bachelor,False,True,1976-05-17,False,66943000,162,23,49,18.01935207,0,2,0,1,1,0,1
+205,Idol,High School,False,False,2002-10-16,True,173000,628,32,23,12.06104687,2,18,1,1,1,0,0
+206,Idol,High School,False,False,2007-02-03,False,6273000,1032,68,18,15.65176527,2,24,0,0,3,3,0
+207,Actor/Actress,Bachelor,False,False,1995-08-24,False,15411000,1032,68,30,16.5505921,3,40,3,6,4,8,4
